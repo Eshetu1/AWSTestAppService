@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmWOTNh5KsXdpgl9napOWhI7CAQLuWs7FHkXsFwIbUiVESag2rFRTZsAcoRCGQaPa9NpjJlw0HjQiKydt/ZdfA==",
+  "success": true,
+  "projectFilePath": "C:\\User\\TNT\\Desktop\\AllDevOpsProject\\AzureDevOps\\AzureDevOps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
